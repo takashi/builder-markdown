@@ -1,4 +1,5 @@
 # builder-markdown
+[![Build Status](https://travis-ci.org/takashi/builder-markdown.svg?branch=master)](https://travis-ci.org/takashi/builder-markdown)
 
 Markdown plugin for [component/builder2.js](https://github.com/component/builder2.js).
 
