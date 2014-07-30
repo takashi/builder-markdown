@@ -1,0 +1,10 @@
+{
+  "name": "home",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "markdown": [
+    "template.md"
+  ]
+}
