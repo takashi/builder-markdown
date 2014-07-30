@@ -26,10 +26,6 @@ build.scripts(nodes)
 
 ## Options
 
-Plugin options:
-
-- `string` - compile the template as an HTML string instead of a function.
-
 Markdown(marked) options:
 
 - `renderer`
