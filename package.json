@@ -10,7 +10,6 @@
   "repository": "takashi/builder-markdown",
   "dependencies": {
     "marked": "*",
-    "sse4_crc32": "^1.1.3",
     "string-to-js": "*"
   },
   "devDependencies": {
